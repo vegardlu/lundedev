@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# idea
+target
+.classpath
+.project
+.settings
+.vagrant
+.idea
+*.iml
+*.bat
+*.versionsBackup
+*.log
+.DS_Store
